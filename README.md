@@ -24,6 +24,7 @@ There is also an inblance in the distribution of ratings. Perhaps people do not 
 ![AverageRatings](https://user-images.githubusercontent.com/115169255/214908815-16f151da-b13e-4450-84a1-7912343af3f0.png)
 
 Lastly, I wanted to see the average number or ratings over the years. This informaton was collected by combining the movies and ratings dataset. 
+
 ![AverageYearlyRatings](https://user-images.githubusercontent.com/115169255/214910225-d422eebb-9c93-4f52-b59d-01e62e5e9685.png)
 
 # Model selection.
