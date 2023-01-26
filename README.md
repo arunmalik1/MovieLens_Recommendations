@@ -1,4 +1,4 @@
-# MovieLens_Recommendations
+# MovieLens Recommendations
 This project is for recommending movies to users based on ratings. The stakeholder can be any company that houses user based movie ratings and wants to increase viewership by making recommendations.
 
 # Data Collection
@@ -35,4 +35,4 @@ I created a function that asks a user to give ratings to movies in a genre. It t
 <img width="807" alt="Recommendations" src="https://user-images.githubusercontent.com/115169255/214912111-905856ae-a351-4a4d-a552-b5b355889fe6.png">
 
 # Future Work
-Overall the model works well and ill give users movie recommendations. To further improve the model I recommend getting a better distribution of user ratings. That will enable models to 
+Overall the model works well and ill give users movie recommendations. To further improve the model I recommend getting a better distribution of user ratings. That will enable models to make recommendations for other genres. 
