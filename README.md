@@ -32,7 +32,8 @@ SVD model had the best results with an error of 0.897
 <img width="1006" alt="SVD Model Results" src="https://user-images.githubusercontent.com/115169255/214911065-0c9f9378-c654-4230-be80-e2bec84be4fa.png">
 
 # Recomendations.
-I created a function that asks a user to give ratings to movies in a genre. It then makes reccomendations for movies based on user feedback. 
+I created a function that asks a user to give ratings to movies in a genre. It then makes recommendations for movies based on user feedback. 
+
 <img width="807" alt="Recommendations" src="https://user-images.githubusercontent.com/115169255/214912111-905856ae-a351-4a4d-a552-b5b355889fe6.png">
 
 # Future Work
